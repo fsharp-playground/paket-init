@@ -1,0 +1,7 @@
+*.exe
+.packet
+packages
+paket-files
+.DS_Store
+*.lock
+*.swp
